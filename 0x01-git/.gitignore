@@ -1,0 +1,6 @@
+files containing sensitive information like passowrds
+auto-generated files
+Files already tracked by gitignore
+Compiled code
+files generated at runtime
+personal ide config files
